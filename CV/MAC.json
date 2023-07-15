@@ -446,6 +446,10 @@
           "type": "technology"
         },
         {
+          "name": "PHPStorm",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
