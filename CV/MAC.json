@@ -156,5 +156,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "goodPractices": "Trato de trabajar siempre que el código me lo permita usando TDD aunque principalmente he trabajado en desarrollo web de front end.\nMe gusta mucho trabajar de una manera constructiva y siempre implementando la mentalidad agile (por ejemplo: el uso de scrum, kanban, técnicas pomodoro, pair programming, mob programming, etc), siempre adaptándome a lo que sea necesario.\nBusco refactorizar cada vez que puedo sin perder el foco de los puntos importantes a conseguir en cada iteración.\nAsimismo, siempre trabajo buscando la mejor semántica posible en el código además de añadir comentarios y documentación para que sea legible por cualquiera."
   }
 }
