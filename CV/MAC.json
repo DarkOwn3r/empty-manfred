@@ -308,6 +308,10 @@
             "type": "technology"
           },
           {
+            "name": "Miro",
+            "type": "technology"
+          },
+          {
             "name": "Netlify",
             "type": "technology"
           },
@@ -317,6 +321,27 @@
           },
           {
             "name": "web hosting",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Responsive Web Design",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "description": "Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos"
+        },
+        "finishDate": "2023-03-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
             "type": "technology"
           }
         ]
