@@ -464,6 +464,10 @@
         {
           "name": "Visual Studio Code",
           "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
         }
       ]
     },
