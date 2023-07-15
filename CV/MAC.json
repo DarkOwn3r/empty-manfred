@@ -20,7 +20,13 @@
         "region": "Comunidad Valenciana",
         "municipality": "Las Palmas"
       }
-    }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Hobbies",
+        "fact": "Fuera del ámbito laboral soy un amante de la música, las tecnologías, los videojuegos, el cine, la fotografía y los bosques. Tanto es así que estoy actualmente trabajando en mi propio proyecto musical \"Kurayami\" y trataré de sacar adelante proyectos de juegos y compartir en el futuro contenido fotográfico diverso."
+      }
+    ]
   },
   "experience": {
     "jobs": [
