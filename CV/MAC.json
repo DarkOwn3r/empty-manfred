@@ -197,6 +197,12 @@
       },
       {
         "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
