@@ -470,6 +470,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
