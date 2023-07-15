@@ -191,6 +191,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -210,6 +216,12 @@
       {
         "skill": {
           "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
