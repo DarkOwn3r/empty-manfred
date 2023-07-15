@@ -430,6 +430,14 @@
           "type": "technology"
         },
         {
+          "name": "Netlify",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
