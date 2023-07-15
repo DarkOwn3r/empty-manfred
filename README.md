@@ -2,7 +2,7 @@
 
 # Pablo Enrique Santana Ojeda's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/98dd82a6-8cee-4cb9-b771-3ce20aba4b97).
 <br/>
 <br/>
 
