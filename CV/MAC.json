@@ -188,6 +188,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -322,11 +328,11 @@
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "JavaScript",
         "type": "technology"
       },
       {
-        "name": "TypeScript",
+        "name": "React",
         "type": "technology"
       }
     ],
