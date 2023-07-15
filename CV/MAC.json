@@ -197,6 +197,12 @@
       },
       {
         "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
