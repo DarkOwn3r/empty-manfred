@@ -469,6 +469,9 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
