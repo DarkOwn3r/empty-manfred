@@ -272,6 +272,56 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso Introducción a la Programación con Javascript",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial"
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Debian",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Netlify",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          },
+          {
+            "name": "web hosting",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
