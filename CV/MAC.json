@@ -203,6 +203,12 @@
       },
       {
         "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
