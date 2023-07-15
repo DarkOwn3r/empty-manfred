@@ -192,6 +192,10 @@
       {
         "name": "EN",
         "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
