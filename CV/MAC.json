@@ -239,6 +239,12 @@
       },
       {
         "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
@@ -296,7 +302,7 @@
         "type": "technology"
       },
       {
-        "name": "Git",
+        "name": "Github",
         "type": "technology"
       },
       {
@@ -305,10 +311,6 @@
       },
       {
         "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Visual Studio Code",
         "type": "technology"
       }
     ],
