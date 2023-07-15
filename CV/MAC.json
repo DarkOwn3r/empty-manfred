@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "Enrique Santana Ojeda",
+      "title": "Junior Web Developer | Learning Full Stack Developer | Sound and Light Technician | SMAW TIG & MIG Welder",
+      "description": "A lo largo de estos últimos años he podido compartir experiencias con grandes profesionales del sector audiovisual en muchos de sus ámbitos. Considero que esto me ha nutrido profundamente y que junto con mis ganas de trabajar y mis aspiraciones me ha hecho crecer y obtener muchos más conocimientos no solo en mi manera de trabajo sino técnicos.\nSoy alguien que opta siempre por mejorar y aprender, trato de no limitar mis metas ni mis horizontes."
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "OMP Soluciones metálicas"
+        },
+        "roles": [
+          {
+            "name": "Peón ",
+            "startDate": "2021-12-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "Skills: Soldadura por arco de metal blindado (SMAW) · Soldadura TIG · Soldadura MIG"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acusticanarias"
+        },
+        "roles": [
+          {
+            "name": "Técnico de sonido e iluminación",
+            "startDate": "2019-09-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sala Hangar"
+        },
+        "roles": [
+          {
+            "name": "Técnico de Iluminación en Espectáculos",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sala Hangar"
+        },
+        "roles": [
+          {
+            "name": "Ayudante Técnico de Sonido",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acusticanarias"
+        },
+        "roles": [
+          {
+            "name": "Técnico de Sonido",
+            "startDate": "2015-08-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pablo-santana-ojeda/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/DarkOwn3r",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "pablosntojd@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
