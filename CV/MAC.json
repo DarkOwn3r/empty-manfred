@@ -188,6 +188,14 @@
     ]
   },
   "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
